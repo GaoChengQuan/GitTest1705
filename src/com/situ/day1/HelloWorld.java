@@ -102,7 +102,4 @@ public class HelloWorld {
 		}
 	}
 	
-	public void fun() {
-			
-	}
 }
